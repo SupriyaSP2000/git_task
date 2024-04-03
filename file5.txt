@@ -1,7 +1,3 @@
 hello,
 
 Welcome to File5!
-
-this is a git task.
-
-Modifying the file in branch first.

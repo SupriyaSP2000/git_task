@@ -1,10 +1,3 @@
 hello,
 
 Welcome to File2!
-
-this is a git task.
-
-Modifying the file in branch first.
-
-
-Modifying the file in branch second.
